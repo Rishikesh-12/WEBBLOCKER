@@ -5,7 +5,7 @@
 
 ------------
 * Follow the comments in the script for necessary changes. 
--[CODE](https://github.com/WEBBLOCKER/main.py)
+[CODE](https://github.com/WEBBLOCKER/main.pyw)
 -------------
 
 ### After necessary changes see these video to run task scheduler
